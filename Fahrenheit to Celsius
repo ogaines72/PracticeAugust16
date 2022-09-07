@@ -1,0 +1,13 @@
+/*
+ Class: Fahrenheit to Celsius
+ Author: Octavius Gaines
+ Version: 1.1
+ Course: ITEC2140 Fall2022
+ Date: 9/7/2022
+ This program will convert 100 degrees Fahrenheit to Celsius
+ */
+public class Degrees{
+    public static void main (String [] args){
+    double fahrenheit = 100;
+    celsius = (fahrenheit-32)*5/9;
+            System.out.println("100 Fahrenheit to celsius : + celsius");
